@@ -2,7 +2,8 @@
 <h3 align="center">A video game enthusiast and developer</h3>
 
 - 🔭 I’m currently working on [Project Ouroboros](https://github.com/Ballsy-Brit/Public-Version-Project-Ouroboros)
-- Play the game here -> https://ballsy-brit.github.io/Ouroboros-Playable-Web-Version
+- Play the game here -> https://ballsy-brit.github.io/Ouroboros-Playable-Web-Version (Under Maintenance)
+- Download and play the game -> https://github.com/Ballsy-Brit/Ouroboros-PlayablePCVersion
 - 🌱 I’m currently learning **Unity 6, Unreal 5**
 
 - 📫 How to reach me **tawhidwasee2023@gmail.com**
