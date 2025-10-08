@@ -24,7 +24,6 @@
 </p>
 
 ---
-![Uploading Cat Working GIF.gif…]()
 
 
 <h3 align="left">Languages and Tools:</h3>
