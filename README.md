@@ -15,7 +15,7 @@
   <a href="https://youtube.com/@ballsybrit?si=LxtKBfCM-CG8djGY" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the ballsy brit" height="30" width="40" />
   </a>
-  <a href="YOUR_LINKEDIN_LINK_HERE" target="_blank">
+  <a href="https://www.linkedin.com/in/md-tawhidul-hoque-8787b5201?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvEw3J6h%2FTruVDoMBFBrZ2g%3D%3D" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
   <a href="https://ballsy-brit.itch.io/" target="_blank">
