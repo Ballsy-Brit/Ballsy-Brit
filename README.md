@@ -1,6 +1,6 @@
 <!-- ===== HEADER ===== -->
 <h1 align="center">Md. Tawhidul Hoque</h1>
-<h3 align="center">Game Developer • Interactive Systems • Probably Fighting Bugs Right Now</h3>
+<h3 align="center">Game Developer • Agni Game Studio • Probably Fighting Bugs Right Now</h3>
 
 <p align="center">
   <a href="https://studio.agni.com" target="_blank">
