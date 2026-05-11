@@ -25,6 +25,44 @@
 
 ---
 
+## 🎥 Game Development Showcase
+
+<p align="center">
+  <a href="https://www.youtube.com/@Mr-Ballsy-Brit">
+    <img 
+      src="https://img.shields.io/badge/Watch-Gameplay_Showcase-red?style=for-the-badge&logo=youtube&logoColor=white" 
+      alt="YouTube Showcase"
+    />
+  </a>
+</p>
+
+<!-- OPTIONAL YOUTUBE EMBED THUMBNAIL -->
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=CNe7auWREJg&list=PLxhPj5APQwK2ZCfQpdn5zuvG6CC72FgKU">
+    <img 
+      src="https://img.youtube.com/vi/CNe7auWREJg/maxresdefault.jpg" 
+      width="720"
+      alt="Gameplay Showcase"
+    />
+  </a>
+</p>
+<p align="center">
+  <a href="https://youtu.be/TKDc0czBzjk">
+    <img 
+      src="https://img.youtube.com/vi/TKDc0czBzjk/maxresdefault.jpg" 
+      width="720"
+      alt="Devlog"
+    />
+  </a>
+</p>
+
+<p align="center">
+  Future devlogs, gameplay prototypes, level breakdowns, and experimental systems showcase will be uploaded here.
+</p>
+
+---
+
 <!-- ===== LINKS ===== -->
 ### 🌐 Connect With Me
 <p align="center">
