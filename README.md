@@ -63,7 +63,7 @@
     <img 
       src="https://img.youtube.com/vi/TKDc0czBzjk/hqdefault.jpg" 
       width="250"
-      alt="Modular Event Trigger System"
+      alt="Modular Event Trigger & Room variant Controller"
     />
   </a>
   <br><br>
@@ -83,7 +83,7 @@
   <br><br>
   <b>AI Enemy System</b>
   <br>
-  Stalker AI Behaviour Test
+  Modular Trigger System
 </td>
 
 </tr>
