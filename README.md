@@ -49,7 +49,7 @@
     <img 
       src="https://img.youtube.com/vi/CNe7auWREJg/hqdefault.jpg" 
       width="250"
-      alt="Project Ouroboros Gameplay"
+      alt="Stalker AI Showcase"
     />
   </a>
   <br><br>
@@ -63,7 +63,7 @@
     <img 
       src="https://img.youtube.com/vi/TKDc0czBzjk/hqdefault.jpg" 
       width="250"
-      alt="Horror Devlog"
+      alt="Modular Event Trigger System"
     />
   </a>
   <br><br>
@@ -73,11 +73,11 @@
 </td>
 
 <td align="center" width="33%">
-  <a href="https://youtu.be/YOUR_VIDEO_ID">
+  <a href="https://youtu.be/7GoIAfJnW5c">
     <img 
-      src="https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg" 
+      src="https://img.youtube.com/vi/7GoIAfJnW5c/hqdefault.jpg" 
       width="250"
-      alt="AI Enemy Showcase"
+      alt="Look Trigger System"
     />
   </a>
   <br><br>
