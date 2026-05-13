@@ -67,7 +67,7 @@
     />
   </a>
   <br><br>
-  <b>Event Trigger System #1</b>
+  <b>Modular Event Trigger System #1</b>
   <br>
   Room Variant Controller
 </td>
@@ -81,9 +81,9 @@
     />
   </a>
   <br><br>
-  <b>Event Trigger System #2</b>
+  <b>Modular Event Trigger System #2</b>
   <br>
-  Jumpscares
+  Look Trigger System
 </td>
 
 </tr>
