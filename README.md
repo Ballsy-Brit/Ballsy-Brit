@@ -27,41 +27,121 @@
 
 ## 🎥 Game Development Showcase
 
+<details>
+<summary>🎮 Gameplay Videos</summary>
+  
 <p align="center">
   <a href="https://www.youtube.com/@Mr-Ballsy-Brit">
     <img 
-      src="https://img.shields.io/badge/Watch-Gameplay_Showcase-red?style=for-the-badge&logo=youtube&logoColor=white" 
+      src="https://img.shields.io/badge/Watch-Full_Showcase-red?style=for-the-badge&logo=youtube&logoColor=white" 
       alt="YouTube Showcase"
     />
   </a>
 </p>
 
-<!-- OPTIONAL YOUTUBE EMBED THUMBNAIL -->
+<br>
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=CNe7auWREJg&list=PLxhPj5APQwK2ZCfQpdn5zuvG6CC72FgKU">
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+  <a href="https://youtu.be/CNe7auWREJg">
     <img 
-      src="https://img.youtube.com/vi/CNe7auWREJg/maxresdefault.jpg" 
-      width="720"
-      alt="Gameplay Showcase"
+      src="https://img.youtube.com/vi/CNe7auWREJg/hqdefault.jpg" 
+      width="250"
+      alt="Project Ouroboros Gameplay"
     />
   </a>
-</p>
-<p align="center">
+  <br><br>
+  <b>Project Ouroboros</b>
+  <br>
+  Atmospheric Gameplay Prototype
+</td>
+
+<td align="center" width="33%">
   <a href="https://youtu.be/TKDc0czBzjk">
     <img 
-      src="https://img.youtube.com/vi/TKDc0czBzjk/maxresdefault.jpg" 
-      width="720"
-      alt="Devlog"
+      src="https://img.youtube.com/vi/TKDc0czBzjk/hqdefault.jpg" 
+      width="250"
+      alt="Horror Devlog"
     />
   </a>
-</p>
+  <br><br>
+  <b>Horror Devlog</b>
+  <br>
+  Systems & Environment Breakdown
+</td>
+
+<td align="center" width="33%">
+  <a href="https://youtu.be/YOUR_VIDEO_ID">
+    <img 
+      src="https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg" 
+      width="250"
+      alt="AI Enemy Showcase"
+    />
+  </a>
+  <br><br>
+  <b>AI Enemy System</b>
+  <br>
+  Stalker AI Behaviour Test
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
+  <a href="https://youtu.be/YOUR_VIDEO_ID">
+    <img 
+      src="https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg" 
+      width="250"
+      alt="Level Design"
+    />
+  </a>
+  <br><br>
+  <b>Level Design</b>
+  <br>
+  Environmental Horror Layout
+</td>
+
+<td align="center" width="33%">
+  <a href="https://youtu.be/YOUR_VIDEO_ID">
+    <img 
+      src="https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg" 
+      width="250"
+      alt="Combat Prototype"
+    />
+  </a>
+  <br><br>
+  <b>Combat Prototype</b>
+  <br>
+  Experimental Combat Mechanics
+</td>
+
+<td align="center" width="33%">
+  <a href="https://youtu.be/YOUR_VIDEO_ID">
+    <img 
+      src="https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg" 
+      width="250"
+      alt="Animation Tests"
+    />
+  </a>
+  <br><br>
+  <b>Animation Tests</b>
+  <br>
+  Character Movement Iterations
+</td>
+
+</tr>
+</table>
+
+<br>
 
 <p align="center">
-  Future devlogs, gameplay prototypes, level breakdowns, and experimental systems showcase will be uploaded here.
+  Future devlogs, gameplay prototypes, AI systems, level breakdowns, and cursed debugging sessions will continue to appear here.
 </p>
 
----
+</details>
 
 <!-- ===== LINKS ===== -->
 ### 🌐 Connect With Me
