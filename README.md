@@ -53,9 +53,9 @@
     />
   </a>
   <br><br>
-  <b>Project Ouroboros</b>
+  <b>Early Stalker AI Build</b>
   <br>
-  Atmospheric Gameplay Prototype
+  Gameplay Prototype
 </td>
 
 <td align="center" width="33%">
@@ -67,7 +67,7 @@
     />
   </a>
   <br><br>
-  <b>Horror Devlog</b>
+  <b>Event Trigger System #1</b>
   <br>
   Systems & Environment Breakdown
 </td>
@@ -81,9 +81,9 @@
     />
   </a>
   <br><br>
-  <b>AI Enemy System</b>
+  <b>Event Trigger System #2</b>
   <br>
-  Modular Trigger System
+  Jumpscares
 </td>
 
 </tr>
