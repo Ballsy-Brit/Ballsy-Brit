@@ -69,7 +69,7 @@
   <br><br>
   <b>Event Trigger System #1</b>
   <br>
-  Systems & Environment Breakdown
+  Room Variant Controller
 </td>
 
 <td align="center" width="33%">
