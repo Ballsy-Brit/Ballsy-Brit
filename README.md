@@ -73,9 +73,9 @@
 </td>
 
 <td align="center" width="33%">
-  <a href="https://youtu.be/7GoIAfJnW5c">
+  <a href="https://www.youtube.com/watch?v=IK6MtoZt9go">
     <img 
-      src="https://img.youtube.com/vi/7GoIAfJnW5c/hqdefault.jpg" 
+      src="https://img.youtube.com/vi/IK6MtoZt9go/hqdefault.jpg" 
       width="250"
       alt="Look Trigger System"
     />
