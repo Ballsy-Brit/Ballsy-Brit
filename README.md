@@ -162,23 +162,25 @@ Future devlogs, AI systems, gameplay prototypes, level breakdowns, and emotional
 
 ---
 
+<!-- ===== GITHUB STATS ===== -->
+
 # 📊 GitHub Stats
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ballsy-brit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ballsy-Brit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com/?user=ballsy-brit&theme=tokyonight"
+    src="https://streak-stats.demolab.com/?user=Ballsy-Brit&theme=tokyonight"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ballsy-brit&layout=compact&theme=tokyonight&langs_count=10&count_private=true&hide=shaderlab,hlsl"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ballsy-Brit&layout=compact&theme=tokyonight&langs_count=8&hide=shaderlab,hlsl,glsl"
   />
 </p>
 
