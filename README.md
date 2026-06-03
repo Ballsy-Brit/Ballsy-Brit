@@ -171,8 +171,12 @@ Future devlogs, AI systems, gameplay prototypes, level breakdowns, and emotional
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ballsy-Brit&layout=compact&theme=tokyonight&langs_count=8&hide=shaderlab,hlsl,glsl&hide_border=true&cache_seconds=86400"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ballsy-Brit&theme=tokyonight"
     alt="Top Languages"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ballsy-Brit&theme=tokyonight"
+    alt="Most Used Languages by Commits"
   />
 </p>
 
