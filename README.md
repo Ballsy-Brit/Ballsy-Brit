@@ -149,10 +149,6 @@ Future devlogs, AI systems, gameplay prototypes, level breakdowns, and emotional
   />
 </p>
 
----
-
-# 📸 Project Preview
-
 <div align="center">
   <img 
     src="https://github.com/user-attachments/assets/047cf750-9376-4a43-8f43-bd86f7edac6b"
@@ -168,19 +164,19 @@ Future devlogs, AI systems, gameplay prototypes, level breakdowns, and emotional
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ballsy-Brit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=Ballsy-Brit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com/?user=Ballsy-Brit&theme=tokyonight"
+    src="https://streak-stats.demolab.com?user=Ballsy-Brit&theme=tokyonight&hide_border=true"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ballsy-Brit&layout=compact&theme=tokyonight&langs_count=8&hide=shaderlab,hlsl,glsl"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ballsy-Brit&layout=compact&theme=tokyonight&langs_count=8&hide=shaderlab,hlsl,glsl"
   />
 </p>
 
