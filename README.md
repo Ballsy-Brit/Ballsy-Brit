@@ -164,19 +164,19 @@ Future devlogs, AI systems, gameplay prototypes, level breakdowns, and emotional
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Ballsy-Brit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=Ballsy-Brit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=Ballsy-Brit&theme=tokyonight&hide_border=true"
+    src="https://nirzak-streak-stats.vercel.app/?user=Ballsy-Brit&theme=tokyonight&hide_border=true"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ballsy-Brit&layout=compact&theme=tokyonight&langs_count=8&hide=shaderlab,hlsl,glsl"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ballsy-Brit&layout=compact&theme=tokyonight&langs_count=8&hide=shaderlab,hlsl,glsl&hide_border=true"
   />
 </p>
 
@@ -195,6 +195,6 @@ Future devlogs, AI systems, gameplay prototypes, level breakdowns, and emotional
 
 <p align="center">
   <i>
-    “One more bug fix” usually means three additional hours of suffering.
+    "One more bug fix" usually means three additional hours of suffering.
   </i>
 </p>
