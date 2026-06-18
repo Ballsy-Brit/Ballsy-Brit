@@ -1,4 +1,5 @@
 <!-- ===== HEADER ===== -->
+
 <h1 align="center">Md. Tawhidul Hoque</h1>
 
 <h3 align="center">
@@ -40,7 +41,7 @@ Game Developer • Agni Game Studio • Probably Fighting Bugs Right Now
 
 <p align="center">
   <a href="https://www.youtube.com/@Mr-Ballsy-Brit">
-    <img 
+    <img
       src="https://img.shields.io/badge/Watch-Full_Showcase-red?style=for-the-badge&logo=youtube&logoColor=white"
       alt="YouTube Showcase"
     />
@@ -53,12 +54,12 @@ Game Developer • Agni Game Studio • Probably Fighting Bugs Right Now
 
 <tr>
 
-<td align="center" width="33%">
+<td align="center" width="50%">
   <a href="https://youtu.be/CNe7auWREJg">
-    <img 
+    <img
       src="https://img.youtube.com/vi/CNe7auWREJg/hqdefault.jpg"
       width="250"
-      alt="Stalker AI Showcase"
+      alt="Enemy AI Showcase"
     />
   </a>
 
@@ -71,12 +72,12 @@ Game Developer • Agni Game Studio • Probably Fighting Bugs Right Now
   Gameplay Prototype
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="50%">
   <a href="https://youtu.be/TKDc0czBzjk">
-    <img 
+    <img
       src="https://img.youtube.com/vi/TKDc0czBzjk/hqdefault.jpg"
       width="250"
-      alt="Modular Event Trigger System"
+      alt="Room Variant Controller"
     />
   </a>
 
@@ -89,9 +90,13 @@ Game Developer • Agni Game Studio • Probably Fighting Bugs Right Now
   Room Variant Controller
 </td>
 
-<td align="center" width="33%">
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
   <a href="https://www.youtube.com/watch?v=IK6MtoZt9go">
-    <img 
+    <img
       src="https://img.youtube.com/vi/IK6MtoZt9go/hqdefault.jpg"
       width="250"
       alt="Look Trigger System"
@@ -107,9 +112,9 @@ Game Developer • Agni Game Studio • Probably Fighting Bugs Right Now
   Look Trigger System
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="50%">
   <a href="https://www.youtube.com/watch?v=1xmeOEdt6fU">
-    <img 
+    <img
       src="https://img.youtube.com/vi/1xmeOEdt6fU/hqdefault.jpg"
       width="250"
       alt="Reactive Water Shader"
@@ -122,10 +127,8 @@ Game Developer • Agni Game Studio • Probably Fighting Bugs Right Now
 
   <br>
 
-  Room Variant Controller
+  Reactive Water Shader
 </td>
-
-
 
 </tr>
 
@@ -163,14 +166,38 @@ Future devlogs, AI systems, gameplay prototypes, level breakdowns, and emotional
 
 # 🛠️ Tech Stack
 
+## 🎮 Game Development
+
 <p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=cpp,cs,css,html,js,ts,python,java,php,react,nodejs,nestjs,express,mongodb,mysql,postgres,linux,flutter,tailwind,unity,unreal"
-  />
+  <img src="https://skillicons.dev/icons?i=unity,unreal,blender,cs,cpp" />
+</p>
+
+## 💻 Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,java" />
+</p>
+
+## 🌐 Web Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nestjs,express,tailwind,php" />
+</p>
+
+## 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+## ⚙️ Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,flutter" />
 </p>
 
 <div align="center">
-  <img 
+  <img
     src="https://github.com/user-attachments/assets/047cf750-9376-4a43-8f43-bd86f7edac6b"
     width="420"
   />
@@ -178,23 +205,21 @@ Future devlogs, AI systems, gameplay prototypes, level breakdowns, and emotional
 
 ---
 
-<!-- ===== GITHUB STATS ===== -->
-
 # 📊 GitHub Stats
 
 <p align="center">
-  <img 
+  <img
     src="https://github-readme-streak-stats-eight.vercel.app?user=Ballsy-Brit&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
-  <img 
+  <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ballsy-Brit&theme=tokyonight"
     alt="Top Languages"
   />
-  <img 
+  <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ballsy-Brit&theme=tokyonight"
     alt="Most Used Languages by Commits"
   />
