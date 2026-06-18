@@ -54,7 +54,7 @@ Game Developer • Agni Game Studio • Probably Fighting Bugs Right Now
 
 <tr>
 
-<td align="center" width="50%">
+<td align="center" width="33%">
   <a href="https://youtu.be/CNe7auWREJg">
     <img
       src="https://img.youtube.com/vi/CNe7auWREJg/hqdefault.jpg"
@@ -72,7 +72,7 @@ Game Developer • Agni Game Studio • Probably Fighting Bugs Right Now
   Gameplay Prototype
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="33%">
   <a href="https://youtu.be/TKDc0czBzjk">
     <img
       src="https://img.youtube.com/vi/TKDc0czBzjk/hqdefault.jpg"
@@ -90,11 +90,7 @@ Game Developer • Agni Game Studio • Probably Fighting Bugs Right Now
   Room Variant Controller
 </td>
 
-</tr>
-
-<tr>
-
-<td align="center" width="50%">
+<td align="center" width="33%">
   <a href="https://www.youtube.com/watch?v=IK6MtoZt9go">
     <img
       src="https://img.youtube.com/vi/IK6MtoZt9go/hqdefault.jpg"
@@ -112,7 +108,11 @@ Game Developer • Agni Game Studio • Probably Fighting Bugs Right Now
   Look Trigger System
 </td>
 
-<td align="center" width="50%">
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
   <a href="https://www.youtube.com/watch?v=1xmeOEdt6fU">
     <img
       src="https://img.youtube.com/vi/1xmeOEdt6fU/hqdefault.jpg"
@@ -128,6 +128,14 @@ Game Developer • Agni Game Studio • Probably Fighting Bugs Right Now
   <br>
 
   Reactive Water Shader
+</td>
+
+<td align="center" width="33%">
+  <!-- Future Video #5 -->
+</td>
+
+<td align="center" width="33%">
+  <!-- Future Video #6 -->
 </td>
 
 </tr>
@@ -160,6 +168,14 @@ Future devlogs, AI systems, gameplay prototypes, level breakdowns, and emotional
     <img src="https://static.itch.io/images/itchio-textless-black.svg" height="45"/>
   </a>
 
+  <a href="https://discord.com/users/744272463847751743" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="45"/>
+  </a>
+
+</p>
+
+<p align="center">
+  <b>Discord:</b> ballsybrit
 </p>
 
 ---
