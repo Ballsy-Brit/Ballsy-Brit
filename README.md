@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=2600&pause=1500&color=FF1A1A&background=0D0D0D&center=true&vCenter=true&width=760&height=110&lines=MD.+TAWHIDUL+HOQUE;GAME+DEVELOPER" alt="Md. Tawhidul Hoque" />
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=2200&pause=300&color=FF1A1A&background=0D0D0D&center=false&vCenter=true&width=760&height=290&repeat=false&multiline=true&lines=%3E+BOOTING+AGNI_OS+v1.0+...+OK;%3E+LOADING+SYSTEMS_ENGINEERING+...+OK;%3E+LOADING+GAMEPLAY_DESIGN+...+OK;%3E+LOADING+LEVEL_DESIGN+...+OK;%3E+LOADING+ENEMY_AI+...+OK;%3E+LOADING+TECH_ART+(SHADERS%2FVFX%2FPARTICLES)+...+OK;%3E+LOADING+AUDIO_DESIGN+...+OK;%3E+LOADING+SUBSTANCE_DESIGN+...+OK;%3E+PROJECT_OUROBOROS+...+IN+PROGRESS+%E2%96%88" alt="Boot sequence" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=2200&pause=300&color=FF1A1A&background=0D0D0D&center=false&vCenter=true&width=760&height=290&repeat=false&multiline=true&lines=%3E+BOOTING+AGNI_OS+v1.0+...+OK;%3E+LOADING+SYSTEMS_ENGINEERING+...+OK;%3E+LOADING+GAMEPLAY_DESIGN+...+OK;%3E+LOADING+LEVEL_DESIGN+...+OK;%3E+LOADING+ENEMY_AI+...+OK;%3E+LOADING+TECH_ART+(SHADERS%2FVFX%2FPARTICLES)+...+OK;%3E+LOADING+AUDIO_DESIGN+...+OK;%3E+LOADING+SUBSTANCE_DESIGN+...+OK;%3E+NEW+QUESTS+...+IN+PROGRESS+%E2%96%88" alt="Boot sequence" />
 
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=2500&pause=1200&color=FF1A1A&background=0D0D0D&center=true&vCenter=true&width=760&height=50&lines=GAMES+%C2%B7+SYSTEMS+%C2%B7+ART+%C2%B7+HORROR;BETTER+SYSTEMS.+SCARIER+WORLDS." alt="Tagline" />
 
@@ -56,8 +56,11 @@
 │ SPECS  : Systems · AI · Level Design     │
 │          Tech Art · VFX · Audio          │
 │          Substance                       │
-│ QUEST  : Project Ouroboros               │
-│ GENRE  : Psychological Horror            │
+│ QUESTS : Rusty Rampage (Released)        │
+│          Project Ouroboros (WIP)         │
+│          Top-down Action Game (WIP)      │
+│          Projekt Upior (WIP)             │
+│ GENRE  : Horror · Action · Survival      │
 │ STATUS : Active                          │
 └──────────────────────────────────────────┘
 ```
@@ -116,7 +119,7 @@ C:\AGNI> specializations
 
 <br><br>
 
-<a href="https://www.youtube.com/@Mr-Ballsy-Brit">
+<a href="https://www.youtube.com/playlist?list=PLxhPj5APQwK2ZCfQpdn5zuvG6CC72FgKU">
   <img src="https://img.shields.io/badge/-%E2%96%B6%20WATCH%20FULL%20SHOWCASE%20ON%20YOUTUBE-FF1A1A?style=for-the-badge&logo=youtube&logoColor=0D0D0D" />
 </a>
 
@@ -124,33 +127,49 @@ C:\AGNI> specializations
 
 <table align="center">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
   <a href="https://youtu.be/CNe7auWREJg">
-    <img src="https://img.youtube.com/vi/CNe7auWREJg/hqdefault.jpg" width="180"/>
+    <img src="https://img.youtube.com/vi/CNe7auWREJg/hqdefault.jpg" width="220"/>
   </a>
   <br><br>
   <img src="https://img.shields.io/badge/-ENEMY%20AI-FF1A1A?style=flat-square" />
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
   <a href="https://youtu.be/TKDc0czBzjk">
-    <img src="https://img.youtube.com/vi/TKDc0czBzjk/hqdefault.jpg" width="180"/>
+    <img src="https://img.youtube.com/vi/TKDc0czBzjk/hqdefault.jpg" width="220"/>
   </a>
   <br><br>
   <img src="https://img.shields.io/badge/-ROOM%20VARIANT%20CONTROLLER-FF1A1A?style=flat-square" />
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
   <a href="https://www.youtube.com/watch?v=IK6MtoZt9go">
-    <img src="https://img.youtube.com/vi/IK6MtoZt9go/hqdefault.jpg" width="180"/>
+    <img src="https://img.youtube.com/vi/IK6MtoZt9go/hqdefault.jpg" width="220"/>
   </a>
   <br><br>
   <img src="https://img.shields.io/badge/-LOOK%20TRIGGER%20SYSTEM-FF1A1A?style=flat-square" />
 </td>
-<td align="center" width="25%">
+</tr>
+<tr>
+<td align="center" width="33%">
   <a href="https://www.youtube.com/watch?v=1xmeOEdt6fU">
-    <img src="https://img.youtube.com/vi/1xmeOEdt6fU/hqdefault.jpg" width="180"/>
+    <img src="https://img.youtube.com/vi/1xmeOEdt6fU/hqdefault.jpg" width="220"/>
   </a>
   <br><br>
   <img src="https://img.shields.io/badge/-REACTIVE%20WATER%20SHADER-FF1A1A?style=flat-square" />
+</td>
+<td align="center" width="33%">
+  <a href="https://youtu.be/8mMF5NCAXiw">
+    <img src="https://img.youtube.com/vi/8mMF5NCAXiw/hqdefault.jpg" width="220"/>
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/-VERTEX%20PAINT%20%26%20WATER%20SHADER-FF1A1A?style=flat-square" />
+</td>
+<td align="center" width="33%">
+  <a href="https://youtu.be/toMOigFwf_4">
+    <img src="https://img.youtube.com/vi/toMOigFwf_4/hqdefault.jpg" width="220"/>
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/-MENU%20UI%20%26%20MODULAR%20MAP%20SYSTEM-FF1A1A?style=flat-square" />
 </td>
 </tr>
 </table>
@@ -160,7 +179,7 @@ C:\AGNI> specializations
 
 <br>
 
-More devlogs, AI systems, gameplay prototypes, level breakdowns and tech art breakdowns get added here as they're finished — check the [YouTube channel](https://www.youtube.com/@Mr-Ballsy-Brit) for the full archive.
+More devlogs, AI systems, gameplay prototypes, level breakdowns and tech art breakdowns get added here as they're finished — check the [YouTube playlist](https://www.youtube.com/playlist?list=PLxhPj5APQwK2ZCfQpdn5zuvG6CC72FgKU) for the full archive.
 
 </details>
 
@@ -259,7 +278,7 @@ More devlogs, AI systems, gameplay prototypes, level breakdowns and tech art bre
 
 <br><br>
 
-<a href="https://youtube.com/@ballsybrit?si=LxtKBfCM-CG8djGY" target="_blank">
+<a href="https://youtube.com/@ballsybrit" target="_blank">
   <img src="https://img.shields.io/badge/-YOUTUBE-FF1A1A?style=for-the-badge&logo=youtube&logoColor=0D0D0D" />
 </a>
 <a href="https://www.linkedin.com/in/md-tawhidul-hoque-8787b5201" target="_blank">
